@@ -1,3 +1,2 @@
 # OpenGLLearning
-Изучение OpenGL с помощью C#
-По туториалам  https://opentk.net/learn/index.html
+Изучение OpenGL с помощью C# по туториалам  https://opentk.net/learn/index.html
